@@ -2,7 +2,7 @@
 
 This bot is a personal project I used to learn about Javascript and the Discord JS library. It is my first experience with Javascript.
 
-In order to run the bot, you must have node.js and discord.js installed.
+In order to run the bot, you must have node.js and discord.js installed. You also must have a .env file with a TOKEN variable and an OWNER variable. The TOKEN variable stores a discord bot's secret token, while the OWNER variable stores a discord user's id.
 
 The bot has five commands, each with a command symbol: ~help, ~test, ~roll, ~hewwo, and ~shutdown.
 
