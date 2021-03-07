@@ -1,0 +1,11 @@
+{
+	"name": "song-game-bot",
+	"version": "1.0.0",
+	"description": "Bot designed to automate Song Games",
+	"main": "bot.js",
+	"author": "aquaticmorpho",
+	"dependencies": {
+		"discord.js": "^12.5.1",
+		"dotenv": "^8.2.0"
+	}
+}
